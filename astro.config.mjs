@@ -4,7 +4,7 @@ import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: "https://rencher.dev",
+  site: "https://www.rencher.dev",
   redirects: {
     "/blog": "/",
   },
